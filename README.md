@@ -19,7 +19,7 @@
 
 My name is Dorsa Alhouie. I have recently graduated with a Bachelor's in Computer Science. <br>
 I had my first experience with programming in high school, and that was the time when I realized I loved it! Later at university, I studied courses related to Data Science and Artificial Intelligence; by doing some projects in these two areas, I found them as my fields of interest.<br>
-Currently, I am looking for a Master's position close to these fields.
+Currently, I am looking for a Master's position in these fields.
 
 
 
